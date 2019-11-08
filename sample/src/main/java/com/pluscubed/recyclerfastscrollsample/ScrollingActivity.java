@@ -22,7 +22,6 @@ import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.color.ColorChooserDialog;
 import com.google.android.material.snackbar.Snackbar;
-import com.pluscubed.recyclerfastscroll.BuildConfig;
 import com.pluscubed.recyclerfastscroll.RecyclerFastScroller;
 import com.pluscubed.recyclerfastscroll.RecyclerFastScrollerUtils;
 
